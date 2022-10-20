@@ -1,5 +1,6 @@
 # Automated-Birthday-Email-Sender
-This script generates automated birthday email messages using user data obtained from the OrangeHRM system database.
+This script generates automated birthday email messages using user data obtained from the OrangeHRM system database. 
+The script requires running every day using Cronjob (Linux) or Task Scheduler (Windows).
 
 - dbhost: Database host (Ex: localhost/127.0.0.1)
 - dbusername: Database username
